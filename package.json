@@ -1,0 +1,26 @@
+{
+  "name": "webapplication1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MathUtils.js",
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-jasmine": "^4.0.0",
+    "gulp-karma": "0.0.5",
+    "jasmine": "^3.5.0",
+    "karma": "^4.4.1",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-coverage": "^2.0.1",
+    "karma-jasmine": "^3.1.0",
+    "karma-jasmine-html-reporter": "^1.5.2",
+    "karma-phantomjs-launcher": "^1.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
