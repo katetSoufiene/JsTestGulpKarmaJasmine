@@ -1,6 +1,4 @@
-﻿
-
-describe("Exemple", function () {
+﻿describe("Exemple", function () {
 
 
     it("should be true", function () {
