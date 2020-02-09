@@ -1,8 +1,8 @@
 {
-  "name": "webapplication1",
+  "name": "JsTestGulpKarmaJasmine",
   "version": "1.0.0",
   "description": "",
-  "main": "MathUtils.js",
+  "main": "Example.js",
   "dependencies": {
     "phantomjs": "^2.1.7"
   },
